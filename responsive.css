@@ -1,0 +1,15 @@
+.navbar-toggler:focus {
+  outline: unset;
+  border: unset;
+  box-shadow: unset;
+}
+
+@media (max-width: 991px) {
+  .navbar-nav {
+    text-align: center;
+  }
+  h2{
+  font-size: 1.5rem;
+  }
+}
+
